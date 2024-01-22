@@ -1,2 +1,2 @@
-@Library('tf-shared-lib')_
+@Library('tf-shared-lib@main')_
 CIPipeline {}
